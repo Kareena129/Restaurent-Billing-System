@@ -30,7 +30,7 @@ User Experience
 - Fast calculations with JavaScript
 - Real-time invoice preview
 
-📸 Screenshots
+# 📸 Screenshots
 Generate Invoice
 
 (Attach Screenshot 1 here)
@@ -38,3 +38,67 @@ Generate Invoice
 Invoice Preview
 
 (Attach Screenshot 2 here)
+
+## 🛠️ Tech Stack
+
+- HTML5 – Structure
+
+- CSS3 – Styling & layout
+
+- JavaScript (Vanilla JS) – Logic & calculations
+
+## 📂 Project Structure
+     Restaurant-Billing-System/
+      │
+      ├── index.html
+      ├── style.css
+      ├── script.js
+      ├── screenshots/
+      │   ├── invoice-form.png
+      │   └── invoice-preview.png
+      └── README.md
+
+## ⚙️ Run Locally
+Clone the repository
+git clone
+
+     https://github.com/YOUR_USERNAME/restaurant-billing-system.git
+
+## Open the project
+      cd restaurant-billing-system
+
+## Run
+
+Open index.html in your browser
+         OR
+Use Live Server in VS Code
+
+## 📊 Billing Logic
+
+- Total = Σ (Quantity × Price)
+
+- Discount = 10% of Total
+- Net Total = Total − Discount
+- CGST = 9% of Net Total
+- SGST = 9% of Net Total
+- Grand Total = Net Total + CGST + SGST
+
+## 🔮 Future Enhancements
+
+- Invoice download as PDF
+- Database storage (MongoDB / MySQL)
+- User authentication
+- Admin dashboard
+- Payment integration
+- Backend support (Node.js / Express)
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork the repository, raise issues, or submit pull requests.
+
+## 📬 Feedback
+
+If you have suggestions or feedback, feel free to reach out or open an issue.
+
+  ⭐ If you like this project, don’t forget to star the repository!
