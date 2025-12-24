@@ -31,13 +31,13 @@ User Experience
 - Real-time invoice preview
 
 # 📸 Screenshots
-Generate Invoice
+## Generate Invoice
+<img width="1581" height="916" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/41adfee3-b5c1-41d5-9924-a6c23b8162ca" />
 
-(Attach Screenshot 1 here)
 
-Invoice Preview
+## Invoice Preview
+<img width="1563" height="934" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/e0292e98-5176-43aa-a501-d989ed7a3627" />
 
-(Attach Screenshot 2 here)
 
 ## 🛠️ Tech Stack
 
